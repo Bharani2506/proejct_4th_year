@@ -1,1 +1,2 @@
-proejct_4th_year
+Complete College Office Automation System
+designed using PHP and MySQL
